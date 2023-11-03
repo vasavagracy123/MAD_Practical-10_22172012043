@@ -43,7 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="20dp"
-                android:text="Surekha"
+                android:text="Gracy"
                 android:textSize="20dp"
                 android:textStyle="bold"
                 app:layout_constraintBottom_toTopOf="@+id/textView_no"
@@ -55,7 +55,7 @@
                 android:id="@+id/textView_no"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="+91 9586348324"
+                android:text="+919546387434"
                 app:layout_constraintBottom_toTopOf="@+id/textView_email"
                 app:layout_constraintStart_toStartOf="@+id/textView_name"
                 app:layout_constraintTop_toBottomOf="@+id/textView_name" />
@@ -64,7 +64,7 @@
                 android:id="@+id/textView_email"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="surekhabhanvar@gmail.com"
+                android:text="gracyvasava@gmail.com"
                 app:layout_constraintBottom_toTopOf="@+id/textView_address"
                 app:layout_constraintStart_toStartOf="@+id/textView_name"
                 app:layout_constraintTop_toBottomOf="@+id/textView_no" />
@@ -73,7 +73,7 @@
                 android:id="@+id/textView_address"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="kaprada/valsad 306065"
+                android:text="Rajpipla"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="@+id/textView_no"
                 app:layout_constraintTop_toBottomOf="@+id/textView_email" />
